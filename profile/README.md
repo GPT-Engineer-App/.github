@@ -1,5 +1,5 @@
 # GPT Engineer
-New projects created on [gptengineer.app](https://run.gptengineer.app) will be created under this organisation.
+New projects created with [Lovable](https://lovable.dev) will be created under this organisation.
 
 ## Transfering repos
 To push commits to your repo you must first transfer the repo to your own account. This can be done in the settings of the GPT Engineer Project.
